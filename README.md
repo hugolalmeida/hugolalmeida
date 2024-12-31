@@ -3,7 +3,7 @@
 ## I am Hugo L. Almeida,
 I'm from Rio de Janeiro, Brazil, and I'm on an exciting journey of learning programming. I love exploring how AI can be used to create fun and useful programs for myself and others. It's amazing to see how programming can streamline tasks and make work easier and more enjoyable!
 
-### 🎯 About Me  <img align="right" loading="lazy" src="./assets/avatar" width="150" />
+### 🎯 About Me  <img align="right" loading="lazy" src="./assets/avatar.png" width="150" />
 - :blue_book: Software Development student (6th semester) at BYU-Idaho.
 - 💻 Currently working as an IT Assistant at Canella & Santos Contabilidade.
 - 🎮 Passionate about movies, games, and sports.
