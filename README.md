@@ -25,4 +25,4 @@ I'm from Rio de Janeiro, Brazil, and I'm on an exciting journey of learning prog
 <a href="https://www.linkedin.com/in/hugo-l-almeida-023701221/?locale=en_US" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>        
 
-
+![Snake animation](https://github.com/hugolalmeida/hugolalmeida/blob/output/github-contribution-grid-snake.svg)
