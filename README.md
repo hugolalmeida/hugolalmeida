@@ -47,8 +47,8 @@ I'm a developer from **Rio de Janeiro, Brazil**, focused on building **RPA autom
 
 <div>
   <a href="https://github.com/hugolalmeida">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugolalmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolalmeida&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats-five-pi-64.vercel.app/api?username=hugolalmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-five-pi-64.vercel.app/api/top-langs/?username=hugolalmeida&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
