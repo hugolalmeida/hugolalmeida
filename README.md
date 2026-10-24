@@ -70,10 +70,6 @@ _Private repository. Public demonstrations use fictional data._
 
 ## 🧰 Toolkit · Tools I use
 
-<a href="https://github.com/hugolalmeida?tab=repositories">
-  <img align="right" src="https://github-stats-extended.vercel.app/api?username=hugolalmeida&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;hide_rank=false&amp;rank_icon=default&amp;ring_color=bb9af7&amp;custom_title=GitHub%20Stats" width="350" alt="GitHub activity, stars received and overall letter rank" />
-</a>
-
 **⚙️ Backend & integrations**<br />
 `Python` `FastAPI` · APIs
 
@@ -84,10 +80,17 @@ _Private repository. Public demonstrations use fictional data._
 **🗃️ Data**<br />
 `PostgreSQL` `Supabase` `Firebase`
 
-<br clear="right" />
-
 **🤖 Automation:** `pandas` `Selenium` `Playwright` `pywinauto` · PDF processing<br />
 **📦 Delivery:** `Docker` `Git`
+
+<p align="center">
+  <a href="https://github.com/hugolalmeida?tab=repositories">
+    <img src="https://github-stats-extended.vercel.app/api?username=hugolalmeida&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;hide_rank=false&amp;rank_icon=default&amp;ring_color=bb9af7&amp;custom_title=GitHub%20Stats" width="53%" alt="GitHub activity, stars received and overall letter rank" />
+  </a>
+  <a href="https://github.com/hugolalmeida?tab=repositories">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hugolalmeida&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight&amp;hide_border=true" width="44%" alt="Most used languages across Hugo Almeida's public repositories" />
+  </a>
+</p>
 
 ## 👨‍🚀 Behind the controls · A little about me
 
