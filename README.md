@@ -1,27 +1,75 @@
-# Hello Everybody, 👋 
+# Hi, I'm Hugo L. Almeida 👋
 
-## I am Hugo L. Almeida,
-I'm from Rio de Janeiro, Brazil, and I'm on an exciting journey of learning programming. I love exploring how AI can be used to create fun and useful programs for myself and others. It's amazing to see how programming can streamline tasks and make work easier and more enjoyable!
+### Web development & process automation
 
-### 🎯 About Me  <img align="right" src="./assets/avatar.png" width="250" />
-- :blue_book: Software Development student (6th semester) at BYU-Idaho.
-- 💻 Currently working as an IT Assistant at Canella & Santos Contabilidade.
-- 🎮 Passionate about movies, games, and sports.
-- 📚 Seeking opportunities to learn and grow as a developer.
-### 🛠️ Tools and Technologies
+<img align="right" src="./assets/avatar.png" width="190" alt="Hugo Almeida's illustrated avatar" />
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" title="HTML5" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" title="CSS3" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" title="JavaScript" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="NextJS" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" title="MySQL" height="40" alt="MySQL"/>
-<div>
-<a href="https://github.com/hugolalmeida">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolalmeida&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=hugolalmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
-### 📬 Contact me
+I build web applications and automations that simplify everyday work — connecting systems, documents, and people.
 
-<div>
-<a href="https://www.instagram.com/hugollalmeida/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:hugogule@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/hugo-l-almeida-023701221/?locale=en_US" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>        
+At **Canella & Santos**, I develop and maintain tools for accounting workflows. My work combines Python automation, web development, API integrations, and Windows desktop automation, with a focus on making processes easier to run and follow.
 
+Based in **Rio de Janeiro, Brazil**, with software development studies at **BYU–Idaho**.
+
+[LinkedIn](https://www.linkedin.com/in/hugo-l-almeida-023701221/) · [Email](mailto:hugogule@gmail.com) · [Portfolio — in development](https://github.com/hugolalmeida/hugo-almeida-portfolio)
+
+<br clear="right" />
+
+## What I work on
+
+- **Process automation:** document generation, data reconciliation, file handling, and recurring workflows.
+- **Systems integration:** APIs, spreadsheets, email, Discord, and accounting platforms.
+- **Web applications:** interfaces for configuring tasks, reviewing results, and managing information.
+- **Operational visibility:** execution queues, logs, scheduling, and handling partial failures.
+
+## Featured work
+
+### Libby — Accounting Automation Platform
+
+My main professional project: an internal platform I developed and use in daily work at Canella & Santos.
+
+Libby brings together automation tools and workflows in a web interface, connecting a server with agents running on Windows VMs.
+
+- Organizes automations and tools by area and execution resource.
+- Coordinates execution queues, scheduling, and Windows agents.
+- Provides execution history, logs, cancellation, and partial-completion status.
+- Supports document and value reconciliation, with differences organized for human review.
+- Integrates with Domínio, Onvio, Gestta, spreadsheets, and PDFs.
+
+**Built with:** Python · FastAPI · PostgreSQL · Docker · Windows automation
+
+_Private repository. Public demonstrations use fictional data._
+
+### More selected projects
+
+| Project                                                                | What I built                                                                                                               | Technologies                        |
+| ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| [Canella Ebook Library](https://github.com/Tsug07/canella_ebook_libby) | A web application for distributing ebooks, providing access through event QR codes, and managing leads and content.        | FastAPI, Jinja2, PostgreSQL, Docker |
+| [DisBot Canella](https://github.com/Tsug07/DisBot_Canella)             | Gerson, Rebecca, and Bip: bots that organize updates from systems, email, and spreadsheets and notify the team on Discord. | Python, discord.py, Google Sheets   |
+| [PLID](https://github.com/hugolalmeida/PLID)                           | A web platform for organizational structure, people, meetings, tasks, and goals, with workspaces and access control.       | Next.js, TypeScript, Supabase       |
+
+### Other professional tools
+
+- **C0ntrol:** a web system for managing debt-clearance certificates, with spreadsheet import and filtering.
+- **MEG:** spreadsheet generation and processing tools using data matching and PDF extraction.
+- **DomBots & AutoMessenger:** document-generation and communication automations that are part of my work on accounting processes.
+
+## Tools I use
+
+**Languages:** Python · JavaScript · TypeScript · HTML · CSS
+
+**Web & data:** FastAPI · React · Next.js · PostgreSQL · Supabase · Firebase
+
+**Automation & delivery:** Selenium · Playwright · pywinauto · pandas · PDF processing · Git · Docker
+
+## How I approach a project
+
+**Understand the routine → connect the systems → build the workflow → learn from daily use.**
+
+I care about the details that make software useful in practice: clear inputs, visible progress, understandable results, and ways to handle exceptions.
+
+## Let's connect
+
+I'm interested in conversations about **automation, integrations, and web development**.
+
+- [LinkedIn](https://www.linkedin.com/in/hugo-l-almeida-023701221/)
+- [Email](mailto:hugogule@gmail.com)
