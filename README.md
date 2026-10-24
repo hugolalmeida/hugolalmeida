@@ -34,23 +34,30 @@ _Private repository. Public demonstrations use fictional data._
 
 ## 🪐 Project orbit · Selected projects
 
-### [Canella Ebook Library](https://github.com/Tsug07/canella_ebook_libby)
+<h3 align="right">01 / 📚 <a href="https://github.com/Tsug07/canella_ebook_libby">Canella Ebook Library</a></h3>
+<p align="right">
+  From event QR codes to ebook access.<br />
+  A web application for distributing ebooks and managing leads and content.
+</p>
+<p align="right"><code>FastAPI</code> <code>Jinja2</code> <code>PostgreSQL</code> <code>Docker</code></p>
 
-A web application for distributing ebooks through event QR codes and managing leads and content.
+---
 
-**Stack:** FastAPI · Jinja2 · PostgreSQL · Docker
+<h3>02 / 🤖 <a href="https://github.com/Tsug07/DisBot_Canella">DisBot Canella</a></h3>
+<p>
+  System updates, delivered to the team's Discord.<br />
+  Gerson, Rebecca, and Bip organize notifications from systems, email, and spreadsheets.
+</p>
+<p><code>Python</code> <code>discord.py</code> <code>Google Sheets</code></p>
 
-### [DisBot Canella](https://github.com/Tsug07/DisBot_Canella)
+---
 
-Gerson, Rebecca, and Bip: bots that organize updates from systems, email, and spreadsheets and notify the team on Discord.
-
-**Stack:** Python · discord.py · Google Sheets
-
-### [PLID](https://github.com/hugolalmeida/PLID)
-
-A web platform for organizational structure, people, meetings, tasks, and goals, with workspaces and access control.
-
-**Stack:** Next.js · TypeScript · Supabase
+<h3 align="right">03 / 🧭 <a href="https://github.com/hugolalmeida/PLID">PLID</a></h3>
+<p align="right">
+  A shared workspace for people, plans, and progress.<br />
+  Organizational structure, meetings, tasks, and goals, with workspaces and access control.
+</p>
+<p align="right"><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code></p>
 
 <details>
 <summary>🛠️ Open the hangar · More automation projects</summary>
@@ -63,30 +70,42 @@ A web platform for organizational structure, people, meetings, tasks, and goals,
 
 ## 🧰 Toolkit · Tools I use
 
-- **Backend & integrations:** Python · FastAPI · API integrations
-- **Web applications:** JavaScript · TypeScript · React · Next.js · HTML · CSS
-- **Data & automation:** PostgreSQL · Supabase · Firebase · pandas · Selenium · Playwright · pywinauto · PDF processing
-- **Delivery:** Docker · Git
+<a href="https://github.com/hugolalmeida?tab=repositories">
+  <img align="right" src="https://github-stats-extended.vercel.app/api?username=hugolalmeida&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;hide_rank=false&amp;rank_icon=default&amp;ring_color=bb9af7&amp;custom_title=GitHub%20Stats" width="350" alt="GitHub activity, stars received and overall letter rank" />
+</a>
 
-## 📊 Flight log · GitHub stats
+**⚙️ Backend & integrations**<br />
+`Python` `FastAPI` · APIs
 
-<p align="center">
-  <a href="https://github.com/hugolalmeida?tab=repositories">
-    <img src="https://github-stats-extended.vercel.app/api?username=hugolalmeida&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;hide_rank=true&amp;custom_title=GitHub%20Flight%20Log" width="460" alt="Hugo Almeida's GitHub statistics: stars received, commits, pull requests, issues and contributions" />
-  </a>
-  <a href="https://github.com/hugolalmeida?tab=repositories">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hugolalmeida&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight&amp;hide_border=true" width="340" alt="Most used languages across Hugo Almeida's public repositories" />
-  </a>
-</p>
+**🎨 Web applications**<br />
+`JavaScript` `TypeScript`<br />
+`React` `Next.js` `HTML` `CSS`
+
+**🗃️ Data**<br />
+`PostgreSQL` `Supabase` `Firebase`
+
+<br clear="right" />
+
+**🤖 Automation:** `pandas` `Selenium` `Playwright` `pywinauto` · PDF processing<br />
+**📦 Delivery:** `Docker` `Git`
 
 ## 👨‍🚀 Behind the controls · A little about me
 
-My background includes software development studies at **BYU–Idaho**. I enjoy connecting software development with the details of daily operations: clear inputs, visible progress, understandable results, and ways to handle exceptions.
+<p align="right">
+  My background includes software development studies at <strong>BYU–Idaho</strong>.<br />
+  I enjoy connecting software development with the details of daily operations:<br />
+  clear inputs, visible progress, understandable results, and ways to handle exceptions.
+</p>
 
-**My approach:** understand the routine → connect the systems → build the workflow → learn from daily use.
+<p align="center">
+  <strong>Understand the routine → connect the systems → build the workflow → learn from daily use.</strong>
+</p>
 
 ## 📡 Open a channel · Let's connect
 
-I'd be happy to talk about **automation, integrations, and web development**.
-
-[LinkedIn](https://www.linkedin.com/in/hugo-l-almeida-023701221/) · [Email](mailto:hugogule@gmail.com) · [Portfolio (in development)](https://github.com/hugolalmeida/hugo-almeida-portfolio)
+<p align="center">
+  I'd be happy to talk about <strong>automation, integrations, and web development</strong>.<br /><br />
+  <a href="https://www.linkedin.com/in/hugo-l-almeida-023701221/">LinkedIn</a> ·
+  <a href="mailto:hugogule@gmail.com">Email</a> ·
+  <a href="https://github.com/hugolalmeida/hugo-almeida-portfolio">Portfolio (in development)</a>
+</p>
