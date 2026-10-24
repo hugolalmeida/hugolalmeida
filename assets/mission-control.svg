@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="200" viewBox="0 0 840 200" role="img" aria-labelledby="title desc">
+  <title id="title">Hugo Almeida — Mission Control</title>
+  <desc id="desc">A space-themed developer dashboard in midnight blue, violet and mint. Web development, automation and integrations.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#151b32"/>
+      <stop offset="1" stop-color="#242044"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#a9b1d6" stroke-opacity=".06"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="838" height="198" rx="18" fill="url(#background)" stroke="#414868"/>
+  <rect x="2" y="2" width="836" height="196" rx="18" fill="url(#grid)"/>
+  <g fill="#a9b1d6">
+    <circle cx="552" cy="37" r="2"/><circle cx="792" cy="45" r="2"/>
+    <circle cx="594" cy="158" r="2"/><circle cx="775" cy="164" r="2"/>
+    <path d="M584 64v8m-4-4h8M772 91v10m-5-5h10" stroke="#a9b1d6"/>
+  </g>
+  <circle cx="36" cy="29" r="4" fill="#f7768e"/>
+  <circle cx="51" cy="29" r="4" fill="#e0af68"/>
+  <circle cx="66" cy="29" r="4" fill="#9ece6a"/>
+  <g font-family="'Segoe UI', Arial, sans-serif">
+    <text x="32" y="70" fill="#73daca" font-size="12" font-weight="600" letter-spacing="3">HUGO ALMEIDA / DEV LOG</text>
+    <text x="30" y="116" fill="#c0caf5" font-size="39" font-weight="700">Mission Control</text>
+    <text x="32" y="147" fill="#a9b1d6" font-size="15">Web development · Automation · Integrations</text>
+    <text x="32" y="177" fill="#bb9af7" font-size="12" font-family="Consolas, monospace">&gt; turning everyday routines into working software_</text>
+  </g>
+  <g transform="translate(687 100)">
+    <ellipse rx="88" ry="28" transform="rotate(-30)" fill="none" stroke="#7aa2f7" stroke-width="2"/>
+    <circle r="46" fill="#292e55" stroke="#bb9af7" stroke-width="2"/>
+    <path d="M-29-9Q0-29 30-9M-34 9Q0-8 34 9M-24 27Q0 15 23 27" fill="none" stroke="#bb9af7" stroke-opacity=".45" stroke-width="3"/>
+    <path d="M-76 44Q0 30 76-44" fill="none" stroke="#7aa2f7" stroke-width="2"/>
+    <circle cx="76" cy="-44" r="7" fill="#73daca"/>
+  </g>
+</svg>
